@@ -1,0 +1,19 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+  background-color: grey;
+}
+
+.shopsList {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  width: 40%;
+}
+.itemsOfDrugs {
+  display: flex;
+  justify-content: space-around;
+  width: 60%;
+}

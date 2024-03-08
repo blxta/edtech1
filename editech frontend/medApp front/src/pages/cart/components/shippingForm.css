@@ -1,0 +1,18 @@
+.maindiv {
+  display: flex;
+  direction: row;
+}
+
+.inputs {
+  display: flex;
+  flex-direction: column;
+}
+
+.every-inputs {
+  display: flex;
+  flex-direction: column;
+}
+
+.bottomInfo {
+  display: flex;
+}

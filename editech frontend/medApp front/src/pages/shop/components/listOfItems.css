@@ -1,0 +1,10 @@
+ul {
+  display: flex;
+  direction: row;
+}
+li {
+  display: flex;
+  direction: row;
+  justify-content: space-between;
+  align-items: stretch;
+}
